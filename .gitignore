@@ -1,0 +1,26 @@
+# Ignore processed images folder
+/processed_images/
+
+# Ignore generated favicons folder
+/generated_favicons/
+
+# Python-related ignores
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
